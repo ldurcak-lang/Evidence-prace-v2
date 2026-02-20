@@ -1,0 +1,24 @@
+{
+  "name": "Evidence práce - Víťa",
+  "short_name": "Evidence - Víťa",
+  "description": "Aplikace pro evidenci pracovní doby a zakázek",
+  "start_url": "/Evidence-prace-v2/vita_pwa.html",
+  "display": "standalone",
+  "background_color": "#dc2626",
+  "theme_color": "#dc2626",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/Evidence-prace-v2/icon-192-vita.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Evidence-prace-v2/icon-512-vita.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
